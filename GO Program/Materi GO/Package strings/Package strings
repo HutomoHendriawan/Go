@@ -1,0 +1,6 @@
+Go menyediakan package strings, isinya banyak fungsi untuk pengolahan data strings.
+
+1. strings.Index()
+Digunakan untuk mencari posisi indeks sebuah string (parameter kedua) dalam string (parameter pertama).
+
+string "ha" berada dalam posisi kedua dalam string 
